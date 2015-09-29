@@ -1,4 +1,4 @@
-﻿Juan Pinzon  - SID: 23632316 Section: 104 TA: Arjun
+Juan Pinzon  - SID: 23632316 Section: 104 TA: Arjun
 
 1. All messages in this protocol have a type field sent in plaintext. If an attacker can alter packets being sent to and from the server, explain how it can launch a DoS attack on the server or client in a way that does not reveal it’s involvement.
     
